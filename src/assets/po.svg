@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 破碎站.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.00648in" height="3.24255in"
+		viewBox="0 0 144.467 233.464" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#d8d8d8;stroke:#d8d8d8;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ffffff;stroke:#d8d8d8;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group87-1" transform="translate(0.375,-0.375)" v:mID="87" v:groupContext="group">
+			<title>工作表.87</title>
+			<g id="group81-2" v:mID="81" v:groupContext="group">
+				<title>工作表.81</title>
+				<g id="shape78-3" v:mID="78" v:groupContext="shape">
+					<title>工作表.78</title>
+					<rect x="0" y="32.1978" width="143.717" height="201.266" class="st1"/>
+				</g>
+				<g id="shape80-5" v:mID="80" v:groupContext="shape" transform="translate(3.19744E-014,-201.266)">
+					<title>工作表.80</title>
+					<path d="M0 233.46 L71.78 202.02 L143.72 233.46 L0 233.46 Z" class="st1"/>
+				</g>
+			</g>
+			<g id="shape82-7" v:mID="82" v:groupContext="shape" transform="translate(27.9213,-0.27292)">
+				<title>工作表.82</title>
+				<rect x="0" y="198.031" width="14.1732" height="35.4331" class="st2"/>
+			</g>
+			<g id="shape83-9" v:mID="83" v:groupContext="shape" transform="translate(101.622,-0.27292)">
+				<title>工作表.83</title>
+				<rect x="0" y="198.031" width="14.1732" height="35.4331" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>
